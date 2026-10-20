@@ -1,0 +1,13 @@
+numpy
+pandas
+geopandas
+rasterio
+scikit-learn
+xgboost
+shap
+matplotlib
+folium
+plotly
+streamlit
+earthengine-api
+requests
